@@ -1,10 +1,10 @@
-#Alpaca - Plank Theme for Elementary OS Freya
+#Alpaca - Plank Theme for Elementary OS
 Christian Danne (dannec@tcd.ie)  
 
 Version: Jan 22 2016  
 
 ###Description
-Transparent theme for Elementary OS Freya's Plank (see screenshot below). 
+Transparent theme for Elementary OS Plank (see screenshot below). 
 
 ![Screenshot](screenshot.png "Screenshot")
 
